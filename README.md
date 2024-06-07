@@ -1,2 +1,2 @@
 # Bank-Management-System-Project
-Technology in Project include- Core Java &amp; AWT + Swing , CodeEditor:- NetBeans.
+Technology in Project include- Core Java &amp; AWT + Swing , CodeEditor: - NetBeans.
